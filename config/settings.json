@@ -1,16 +1,16 @@
 {
-  "author": "@TenKBay",
-  "siteUrl": "https://tenk-dao.github.io/frontend-starter",
+  "author": "@Kasou_World",
+  "siteUrl": "https://tenk-dao.github.io/kasou-world-drop",
   "contractName": "v2.tenk.testnet",
-  "image": "tenk-logo.png",
+  "image": "social-banner.jpg",
   "social": [
     {
-      "href": "https://discord.com/invite/UY9Xf2k",
+      "href": "https://discord.gg/8PB3rPJAjR",
       "img":  "discord.svg",
       "alt": "Discord"
     },
     {
-      "href": "https://twitter.com/TenKBay",
+      "href": "https://twitter.com/Kasou_World",
       "img":  "twitter.svg",
       "alt": "Twitter"
     }

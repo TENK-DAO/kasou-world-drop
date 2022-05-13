@@ -1,7 +1,7 @@
 {
   "name": "kasou-world-drop",
   "private": true,
-  "description": "Kasou World Drop NFT landing page",
+  "description": "Kasou World NFT landing page",
   "version": "0.1.0",
   "author": "Chad Ostrowski <chad@ahalabs.dev>",
   "dependencies": {
